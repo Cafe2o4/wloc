@@ -29,8 +29,8 @@ http:
 
 script-providers:
   WLOC.Location:
-    url: https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/dist/wloc.js
+    url: https://raw.githubusercontent.com/Cafe2o4/wloc/refs/heads/main/dist/wloc.js
     interval: 86400
   WLOC.Settings:
-    url: https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/dist/wloc-settings.js
+    url: https://raw.githubusercontent.com/Cafe2o4/wloc/refs/heads/main/dist/wloc-settings.js
     interval: 86400
