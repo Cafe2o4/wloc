@@ -9,7 +9,7 @@
 > ⚠️ **iOS 27 beta 6 起，系统已禁止对 `gs-loc.apple.com` 进行 MITM 拦截。** 目前该版本及之后的 beta 版本暂时无法使用本项目，等待后续适配方案。
 
 Shadowrocket配置示例👇
-1. 打开 Shadowrocket，依次进入 配置 → 模块 → 右上角“＋” → 来自URL，粘贴项目对应URL
+1. 打开 Shadowrocket，依次进入 配置 → 模块 → 右上角“＋” → 来自URL，粘贴项目对应订阅地址
 下载并保存，返回模块列表，找到“Apple WLOC 定位修改”，确认模块已经启用，右侧应显示启用标记。
 2. 继续在 Shadowrocket 中，进入 配置 → 当前正在使用的配置文件 → 右侧“ⓘ” → HTTPS解密并打开
 3. 还是在 Shadowrocket HTTPS解密页面中，点击证书 → 生成新的CA证书 → 安装证书，打开iPhone系统设置，依次进入“设置 → 通用 → VPN与设备管理”
